@@ -17,6 +17,26 @@ For more detail about the algorithm, one can visit corresponding wikipedia page 
   In this way, one can try the algorithm and observe the results.
   This algorithm consumes 2.047 watt/sec power and 2.047 joule/sec for an image whose width and height dimensions are equal to 512.  Also, algorithm results in 10.49 msec to manipulate the same image. However, reading and re-writing the image from/to memory times are not included in this measurement. \
   
+  Explanation for the data: \
+i) PNG files:
+    - im.png (256x256), 
+    - lenna.png (512x512), 
+    - lyon_4096.png (4096x4096) \
+ii) Hexadecimal conversions of the original PNG files:
+    - im_hex.txt
+    - lenna_hex.txt
+    - lyon_hex.txt \
+iii) Hexadecimal results after histogram equalization is applied:
+    - im_res.txt
+    - lenna_res.txt
+    - lyon_res.txt (AWS EC2 server) \
+iv) Resultant PNG files after histogram equalization is applied:
+    - im_res.png
+    - lenna_res.png
+    - lyon_res.png (AWS EC2 server) \
+  
+  Since Lyon image is bigger in terms of file size, I could not synthesize/implement this image in my local. Hence, I have used the AWS EC2 server to test it. 
+
   The mentioned results are obtained from the VCS-1 board provided by the Sundance Multiprocessor tech.  (https://www.sundance.com/vcs-1/) \
   Power measuremetns are done with the help of LynSyn Lite device.  (https://store.sundance.com/product/lynsyn/ , https://www.xilinx.com/products/boards-and-kits/1-18tmbgt.html)
   																	 
