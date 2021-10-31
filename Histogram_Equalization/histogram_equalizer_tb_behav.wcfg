@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="histogram_equalizer_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="histogram_equalizer_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="10539946667fs"></ZoomStartTime>
+      <ZoomEndTime time="10553046668fs"></ZoomEndTime>
+      <Cursor1Time time="10542130000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="163"></NameColumnWidth>
+      <ValueColumnWidth column_width="96"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="21" />
+   <wvobject type="array" fp_name="/histogram_equalizer_tb/pixel_val">
+      <obj_property name="ElementShortName">pixel_val[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pixel_val[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/histogram_equalizer_tb/ready">
+      <obj_property name="ElementShortName">ready</obj_property>
+      <obj_property name="ObjectShortName">ready</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/histogram_equalizer_tb/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/histogram_equalizer_tb/read_start">
+      <obj_property name="ElementShortName">read_start</obj_property>
+      <obj_property name="ObjectShortName">read_start</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/histogram_equalizer_tb/out_pixel_val">
+      <obj_property name="ElementShortName">out_pixel_val[7:0]</obj_property>
+      <obj_property name="ObjectShortName">out_pixel_val[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/histogram_equalizer_tb/finish">
+      <obj_property name="ElementShortName">finish</obj_property>
+      <obj_property name="ObjectShortName">finish</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/histogram_equalizer_tb/current_pixel">
+      <obj_property name="ElementShortName">current_pixel[7:0]</obj_property>
+      <obj_property name="ObjectShortName">current_pixel[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/histogram_equalizer_tb/y_counter">
+      <obj_property name="ElementShortName">y_counter[10:0]</obj_property>
+      <obj_property name="ObjectShortName">y_counter[10:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/histogram_equalizer_tb/x_counter">
+      <obj_property name="ElementShortName">x_counter[10:0]</obj_property>
+      <obj_property name="ObjectShortName">x_counter[10:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/histogram_equalizer_tb/step_counter">
+      <obj_property name="ElementShortName">step_counter[3:0]</obj_property>
+      <obj_property name="ObjectShortName">step_counter[3:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/histogram_equalizer_tb/cdf_min">
+      <obj_property name="ElementShortName">cdf_min[7:0]</obj_property>
+      <obj_property name="ObjectShortName">cdf_min[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/histogram_equalizer_tb/min_found">
+      <obj_property name="ElementShortName">min_found</obj_property>
+      <obj_property name="ObjectShortName">min_found</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/histogram_equalizer_tb/read">
+      <obj_property name="ElementShortName">read</obj_property>
+      <obj_property name="ObjectShortName">read</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/histogram_equalizer_tb/write">
+      <obj_property name="ElementShortName">write</obj_property>
+      <obj_property name="ObjectShortName">write</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/histogram_equalizer_tb/finish_tb">
+      <obj_property name="ElementShortName">finish_tb</obj_property>
+      <obj_property name="ObjectShortName">finish_tb</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/histogram_equalizer_tb/out_ptr">
+      <obj_property name="ElementShortName">out_ptr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_ptr[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/histogram_equalizer_tb/i">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/histogram_equalizer_tb/j">
+      <obj_property name="ElementShortName">j[31:0]</obj_property>
+      <obj_property name="ObjectShortName">j[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/histogram_equalizer_tb/width">
+      <obj_property name="ElementShortName">width[31:0]</obj_property>
+      <obj_property name="ObjectShortName">width[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/histogram_equalizer_tb/height">
+      <obj_property name="ElementShortName">height[31:0]</obj_property>
+      <obj_property name="ObjectShortName">height[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/histogram_equalizer_tb/max_pixel_val">
+      <obj_property name="ElementShortName">max_pixel_val[31:0]</obj_property>
+      <obj_property name="ObjectShortName">max_pixel_val[31:0]</obj_property>
+   </wvobject>
+</wave_config>

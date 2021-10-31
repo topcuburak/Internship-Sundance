@@ -1,0 +1,1 @@
+-wto "0951d874d97949f187c062cbccc3d326" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "histogram_equalizer_tb_behav" "xil_defaultlib.histogram_equalizer_tb" "xil_defaultlib.glbl" -log "elaborate.log" 

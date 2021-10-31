@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/burak/Desktop/histogram_equalizer/final_hist_eqaulizer/final_hist_eqaulizer.srcs/sources_1/new/histogram_equalizer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module histogram_equalizer
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/burak/Desktop/histogram_equalizer/final_hist_eqaulizer/final_hist_eqaulizer.srcs/sources_1/new/histogram_equalizer_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module histogram_equalizer_tb

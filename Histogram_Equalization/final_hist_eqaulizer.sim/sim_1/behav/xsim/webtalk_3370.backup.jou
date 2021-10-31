@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Oct 24 13:10:06 2021
+# Process ID: 3370
+# Current directory: /home/burak/Desktop/histogram_equalizer/final_hist_eqaulizer/final_hist_eqaulizer.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/burak/Desktop/histogram_equalizer/final_hist_eqaulizer/final_hist_eqaulizer.sim/sim_1/behav/xsim/xsim.dir/histogram_equalizer_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/burak/Desktop/histogram_equalizer/final_hist_eqaulizer/final_hist_eqaulizer.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/burak/Desktop/histogram_equalizer/final_hist_eqaulizer/final_hist_eqaulizer.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/burak/Desktop/histogram_equalizer/final_hist_eqaulizer/final_hist_eqaulizer.sim/sim_1/behav/xsim/xsim.dir/histogram_equalizer_tb_behav/webtalk/xsim_webtalk.tcl -notrace
