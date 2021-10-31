@@ -2,7 +2,7 @@
 
 This repository includes different Neural Network algorithm configurations implemented in http://yann.lecun.com/exdb/mnist/ page and histogram equalization algorithm. 
 
-1) Neural Network algorithm \
+1) Neural Network algorithm 
   - There are three different network configurations as: \
     i) 2-layer NN, 300 hidden units, mean square error \
     ii) 3-layer NN, 300+100 hidden units with means square error and \
